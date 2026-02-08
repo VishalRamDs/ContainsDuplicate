@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0713-subarray-product-less-than-k) |
@@ -23,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -46,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
