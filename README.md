@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0713-subarray-product-less-than-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
