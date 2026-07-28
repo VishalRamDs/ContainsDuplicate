@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0383-ransom-note) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 ## Stack
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
