@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0387-first-unique-character-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [2351-first-letter-to-appear-twice](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
@@ -108,11 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
 |  |
 | ------- |
