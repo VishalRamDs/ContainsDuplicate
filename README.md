@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0392-is-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2351-first-letter-to-appear-twice](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/2351-first-letter-to-appear-twice) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
