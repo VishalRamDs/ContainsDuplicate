@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0645-set-mismatch) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -163,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0374-guess-number-higher-or-lower) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
