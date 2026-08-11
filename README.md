@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
