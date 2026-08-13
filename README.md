@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VishalRamDs/ContainsDuplicate/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
